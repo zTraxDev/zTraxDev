@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm zTraxDev</h1>
 <h3 align="center">Junior backend programmer</h3>
-<img >
+<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/047668fb-fcf5-4f67-8225-d13cc4435f67/dbip6or-bf5e2f29-091f-49f6-92a4-cf017b3cbc01.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA0NzY2OGZiLWZjZjUtNGY2Ny04MjI1LWQxM2NjNDQzNWY2N1wvZGJpcDZvci1iZjVlMmYyOS0wOTFmLTQ5ZjYtOTJhNC1jZjAxN2IzY2JjMDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jne6BTmDfd8z494W2KchJRATK_2OVyn_XSKnTW2ittQ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ztraxdev&label=Profile%20views&color=0e75b6&style=flat" alt="ztraxdev" /> </p>
 
 - 🌱 I’m currently learning **FastAPI**
