@@ -1,3 +1,4 @@
+[![MasterHead](https://camo.githubusercontent.com/227c7a3e047d93381621fc93ad12444a8ad8b7cd999496eff6cbc40b32baf7e6/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31312f6865616465725f62616e6e65722e6a7067)]
 <h1 align="center">Hi 👋, I'm zTraxDev</h1>
 <h3 align="center">Junior backend programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/047668fb-fcf5-4f67-8225-d13cc4435f67/dbip6or-bf5e2f29-091f-49f6-92a4-cf017b3cbc01.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA0NzY2OGZiLWZjZjUtNGY2Ny04MjI1LWQxM2NjNDQzNWY2N1wvZGJpcDZvci1iZjVlMmYyOS0wOTFmLTQ5ZjYtOTJhNC1jZjAxN2IzY2JjMDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jne6BTmDfd8z494W2KchJRATK_2OVyn_XSKnTW2ittQ">
@@ -13,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bernardmartinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernardmartinez" height="30" width="40" /></a>
-<a href="https://discord.gg/zTraxDev2333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zTraxDev2333" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bernard-martinez-275751262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernard-martinez-275751262" height="30" width="40" /></a>
+<a href="https://discord.gg/hablemospython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zTraxDev2333" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
