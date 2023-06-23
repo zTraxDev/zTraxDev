@@ -21,9 +21,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask, fastapi" />
+  <img align="left" src="https://skillicons.dev/icons?i=flask, fastapi" />
   <a href="https://fastapi.tiangolo.com/tutorial/">
-  <img src="https://skillicons.dev/icons?i=fastapi">
+  <img align="left" src="https://skillicons.dev/icons?i=fastapi">
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ztraxdev&show_icons=true&locale=en&layout=compact" alt="ztraxdev" /></p>
