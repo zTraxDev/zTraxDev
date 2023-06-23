@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p aling="left">
-  <img src="https://skillicons.dev/icons?i=flask, fastapi">
+  <img src="https://skillicons.dev/icons?i=flask, fastapi" />
   <a href="https://fastapi.tiangolo.com/tutorial/">
   <img src="https://skillicons.dev/icons?i=fastapi">
 </p>
