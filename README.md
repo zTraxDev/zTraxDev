@@ -18,7 +18,7 @@
 <a href="https://discord.gg/hablemospython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zTraxDev2333" height="30" width="40" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi, flask, mysql, mongodb)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=fastapi, flask, mysql, mongodb)(https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ztraxdev&show_icons=true&locale=en&layout=compact" alt="ztraxdev" /></p>
 
