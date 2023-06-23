@@ -11,7 +11,7 @@
 
 - ⚡ **I am Funny**
 
-![My Skills](https://skillicons.dev/icons?i=fastapi, flask, mysql, mongodb)(https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi, flask, mysql, mongodb)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
