@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=fastapi,flask figma&theme=light)]
+![My Skills](https://skillicons.dev/icons?i=fastapi,flask figma&theme=dark)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ztraxdev&show_icons=true&locale=en&layout=compact" alt="ztraxdev" /></p>
 
