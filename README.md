@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bernard-martinez-275751262" target="blank"><img align="center" src="https://skillicons.dev/icons?=linkedin" alt="bernard-martinez-275751262" height="30" width="40" /></a>
-<a href="https://discord.gg/hablemospython" target="blank"><img align="center" src="https://skillicons.dev/icons?=discord" alt="zTraxDev2333" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bernard-martinez-275751262" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="bernard-martinez-275751262" height="30" width="40" /></a>
+<a href="https://discord.gg/hablemospython" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="zTraxDev2333" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
