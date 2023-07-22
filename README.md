@@ -3,11 +3,11 @@
 <h3 align="center">Junior backend programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ztraxdev&label=Profile%20views&color=0e75b6&style=flat" alt="ztraxdev" /> </p>
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **FastAPI, Flask and MongoDB, MySQL,FARM STACK**
+- 💬 Ask me about **Python, Javascript and PHP**
 
-- 📫 How to reach me **josemarinez243@gmail.com**
+- 📫 How to reach me **bernardmartinez243@gmail.com**
 
 - ⚡ **I am Funny**
 
