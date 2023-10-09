@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FHitenjain14&psig=AOvVaw0Wu5XyJbxjLBI7SWA12dsw&ust=1696966775213000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjV5IDc6YEDFQAAAAAdAAAAABAQ)](https://rishavchanda.io)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FHitenjain14&psig=AOvVaw0Wu5XyJbxjLBI7SWA12dsw&ust=1696966775213000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjV5IDc6YEDFQAAAAAdAAAAABAQ)(https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm zTrax</h1>
 <h3 align="center">Junior Backend Programmer</h3>
