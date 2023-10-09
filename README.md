@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e3Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fBda0ca5/6874747073Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fBTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fB6572722e676966)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/dcba36fec68f7f3cc9663d2c09d233204008e4323bbfdbb7124d6c5bb9e3889c/68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61KDLPWKtcPjpxQzc26CxTtPFuQMNfm2RfEHfK66)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm zTraxDev</h1>
 <h3 align="center">Junior backend programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ztraxdev&label=Profile%20views&color=0e75b6&style=flat" alt="ztraxdev" /> </p>
