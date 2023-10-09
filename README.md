@@ -1,5 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c61KD8PTAu4GLRX8LuC4v2AG7xbgZXs33FaP06c61KDLPWKtcPjpxQzc26CxTtPFuQMNfm2RfEHfK6576656c6f706d656e742e676966)
-
+![MasterHead]([https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/6874747073Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fB6572732f37333037303Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fBTtPFuQMNfm2RfEHfK66))
 <h1 align="center">Hi 👋, I'm zTrax</h1>
 <h3 align="center">Junior Backend Programmer</h3>
 
