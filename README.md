@@ -1,7 +1,6 @@
-[![MasterHead](https://camo.githubusercontent.com/2a63ca53Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fB54aa683b500f/6874747073Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fBTtPFuQMNfm2RfEHfK16e6e65725f30332e676966)](https://codegrills.in)
+[MasterHead](https://camo.githubusercontent.com/2a63ca53Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fB54aa683b500f/6874747073Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fBTtPFuQMNfm2RfEHfK16e6e65725f30332e676966)
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<h1 align="center">Hi 👋, I'm zTrav</h1>
+<h1 align="center">Hi 👋, I'm zTrax</h1>
 <h3 align="center">Junior Backend Programmer</h3>
 
 - 🌱 I’m currently learning **Express.js**
