@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FHitenjain14&psig=AOvVaw0Wu5XyJbxjLBI7SWA12dsw&ust=1696966775213000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjV5IDc6YEDFQAAAAAdAAAAABAQ)
+![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c61KD8PTAu4GLRX8LuC4v2AG7xbgZXs33FaP06c61KDLPWKtcPjpxQzc26CxTtPFuQMNfm2RfEHfK6576656c6f706d656e742e676966)
 
 <h1 align="center">Hi 👋, I'm zTrax</h1>
 <h3 align="center">Junior Backend Programmer</h3>
