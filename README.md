@@ -1,4 +1,4 @@
-![Header](https://camo.githubusercontent.com/5bfc4aa2a3f0e041c9383c9d85a05047f5e572ef2493257f59a37980f11758af/68747470733a2f2f692e70696e696d672e63Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fBTtPFuQMNfm2RfEHfK731626431643630393066383732333732373262303165352e676966)
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm zTraxDev</h1>
 <h3 align="center">Junior backend programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ztraxdev&label=Profile%20views&color=0e75b6&style=flat" alt="ztraxdev" /> </p>
