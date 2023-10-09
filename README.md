@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/2a63ca53Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fB54aa683b500f/6874747073Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fBTtPFuQMNfm2RfEHfK16e6e65725f30332e676966)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm zTraxDev</h1>
 <h3 align="center">Junior backend programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ztraxdev&label=Profile%20views&color=0e75b6&style=flat" alt="ztraxdev" /> </p>
