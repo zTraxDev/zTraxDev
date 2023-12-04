@@ -1,4 +1,4 @@
-![OnePiece](https://camo.githubusercontent.com/2a63ca53Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fB54aa683b500f/6874747073Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fBTtPFuQMNfm2RfEHfK16e6e65725f30332e676966)
+![OnePiece](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm zTrax</h1>
 <h3 align="center">Junior Backend Programmer</h3>
 
