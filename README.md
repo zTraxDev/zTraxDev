@@ -1,4 +1,4 @@
-![OnePiece]([https://github.com/SrEvelio/SrEvelio/blob/main/assets/onepiece.gif](https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/6874747073Cp1fc32fKnTdtHSeWvp2ySXWTADCpgQUx5742f77702d636f6e74656e742f75706c6f6164732f32303Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fBf706d656e742d466561Knu5Xyn2EDmKiscsQ9Hf4LPWKtcPjpxQzc26CxTtPFuQMNfm2RfEHfK96f6e732e676966))
+![OnePiece](https://camo.githubusercontent.com/2a63ca53Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fB54aa683b500f/6874747073Cp1fc32fKnTDuNN5vGcXnSSehgS2qhkbFqbURhC8V5fBTtPFuQMNfm2RfEHfK16e6e65725f30332e676966)
 <h1 align="center">Hi 👋, I'm zTrax</h1>
 <h3 align="center">Junior Backend Programmer</h3>
 
