@@ -9,13 +9,9 @@
 
 ## 🚀 Proyectos Destacados  
 
-### [API de Gestión de Tareas](https://github.com/tu-repo-de-ejemplo)  
-- **Descripción:** API RESTful para la gestión de tareas con autenticación JWT.  
-- **Tecnologías:** Node.js, Express.js, MongoDB, TypeScript.  
-- **Características:**  
-  - CRUD completo para tareas.  
-  - Autenticación y autorización basada en roles.  
-  - Integración con Swagger para documentación.  
+### [Pawn web compiler]([https://github.com/tu-repo-de-ejemplo](https://github.com/zTraxDev/pawn-web-compiler))  
+- **Descripción:** Compilador de gamemodes de samp.  
+- **Tecnologías:** Node.js, Express.js, TypeScript.  
 
 ### [Dashboard para Negocios](https://github.com/tu-repo-de-ejemplo)  
 - **Descripción:** Aplicación web para visualizar datos empresariales clave.  
