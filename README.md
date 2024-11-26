@@ -3,57 +3,57 @@
 # Hola 👋, soy zTrax  
 ### Desarrollador Backend Especializado en Node.js  
 
-Soy un desarrollador backend con experiencia en **Node.js**, **Express.js** y otros frameworks y herramientas modernas. Apasionado por construir APIs escalables, optimizar sistemas y aprender constantemente nuevas tecnologías.  
+¡Bienvenido a mi portafolio en GitHub! Soy un desarrollador backend apasionado por construir soluciones eficientes y escalables. Tengo experiencia con **Node.js**, **Express.js**, y bases de datos como **MongoDB** y **MySQL**.  
 
 ---
 
-### 🚀 Actualmente trabajando en:  
-- **Mejorar mis habilidades con Express.js y TypeScript**  
-- **Explorar patrones de diseño para backend**  
-- **Colaborar en proyectos con arquitecturas modernas**  
+## 🚀 Proyectos Destacados  
+
+### [API de Gestión de Tareas](https://github.com/tu-repo-de-ejemplo)  
+- **Descripción:** API RESTful para la gestión de tareas con autenticación JWT.  
+- **Tecnologías:** Node.js, Express.js, MongoDB, TypeScript.  
+- **Características:**  
+  - CRUD completo para tareas.  
+  - Autenticación y autorización basada en roles.  
+  - Integración con Swagger para documentación.  
+
+### [Dashboard para Negocios](https://github.com/tu-repo-de-ejemplo)  
+- **Descripción:** Aplicación web para visualizar datos empresariales clave.  
+- **Tecnologías:** Svelte, TailwindCSS, Node.js, MySQL.  
+- **Características:**  
+  - Tablas dinámicas con filtros avanzados.  
+  - API integrada para sincronización en tiempo real.  
 
 ---
 
-### 💡 Habilidades y Tecnologías  
-**Lenguajes de programación:**  
-![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)  
-![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)  
-![Python](https://skillicons.dev/icons?i=python&theme=dark)  
+## 💡 Habilidades Técnicas  
 
-**Frameworks y herramientas backend:**  
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)  
-![Express](https://skillicons.dev/icons?i=express&theme=dark)  
-![Sequelize](https://skillicons.dev/icons?i=sequelize&theme=dark)  
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)  
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)  
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,python,mongodb,mysql,sequelize&theme=dark" alt="Backend Skills" width="600" />
+</div>
 
-**Frontend (conocimiento básico):**  
-![Vue.js](https://skillicons.dev/icons?i=vue&theme=dark)  
-![Svelte](https://skillicons.dev/icons?i=svelte&theme=dark)  
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)  
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)  
-
-**Herramientas:**  
-![Postman](https://skillicons.dev/icons?i=postman&theme=dark)  
-![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)  
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=vue,svelte,tailwind,bootstrap,postman,vscode&theme=dark" alt="Frontend & Tools" width="600" />
+</div>
 
 ---
 
-### 💬 Pregúntame sobre:  
-- Node.js y Express.js  
-- Diseño y desarrollo de APIs RESTful  
-- Integración con bases de datos relacionales y no relacionales  
+## 📈 GitHub Stats  
+
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=zTraxDev&show_icons=true&theme=dark&locale=en" alt="zTraxDev GitHub Stats" height="150" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zTraxDev&layout=compact&theme=dark" alt="Top Languages" height="150" />
+</div>
 
 ---
 
-### 📫 Contáctame:  
-- **Correo electrónico:** bernardmartinez241@gmail.com  
-- **GitHub:** [zTraxDev](https://github.com/zTraxDev)  
+## 📫 Contáctame  
+
+- **Correo:** [bernardmartinez241@gmail.com](mailto:bernardmartinez241@gmail.com)  
+- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/)  
+- **Portafolio:** [zTraxDev](https://github.com/zTraxDev)  
 
 ---
 
-### 📊 GitHub Stats:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zTraxDev&show_icons=true&theme=dark&locale=en)
-
----
-
+### 🌟 ¡Gracias por visitar mi perfil!  
+Si tienes alguna pregunta o quieres colaborar en un proyecto, no dudes en contactarme. 🚀  
