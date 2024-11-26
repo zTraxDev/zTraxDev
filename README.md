@@ -1,24 +1,59 @@
 ![OnePiece](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm zTrax</h1>
-<h3 align="center">Junior Backend Programmer</h3>
 
-- 🌱 I’m currently learning **Express.js**
+# Hola 👋, soy zTrax  
+### Desarrollador Backend Especializado en Node.js  
 
-- 💬 Ask me about **JavaScript**
+Soy un desarrollador backend con experiencia en **Node.js**, **Express.js** y otros frameworks y herramientas modernas. Apasionado por construir APIs escalables, optimizar sistemas y aprender constantemente nuevas tecnologías.  
 
-- 📫 How to reach me **bernardmartinez241@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🚀 Actualmente trabajando en:  
+- **Mejorar mis habilidades con Express.js y TypeScript**  
+- **Explorar patrones de diseño para backend**  
+- **Colaborar en proyectos con arquitecturas modernas**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mongodb" width="40" height="40"/> </a> <a href="https://sequelize.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sequelize" alt="mongodb" width="40" height="40"/> </a> <a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs"          width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=svelte" alt="svelte"          width="40" height="40"/> </a> <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="svelte"          width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="svelte"          width="40" height="40"/> </a> <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="svelte"          width="40" height="40"/> </a> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="svelte"          width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ztraxdev&show_icons=true&theme=dark&locale=en" alt="ztraxdev" /></p>
+### 💡 Habilidades y Tecnologías  
+**Lenguajes de programación:**  
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)  
+![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)  
+![Python](https://skillicons.dev/icons?i=python&theme=dark)  
 
-<!---
-zTraxDev/zTraxDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frameworks y herramientas backend:**  
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)  
+![Express](https://skillicons.dev/icons?i=express&theme=dark)  
+![Sequelize](https://skillicons.dev/icons?i=sequelize&theme=dark)  
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)  
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)  
+
+**Frontend (conocimiento básico):**  
+![Vue.js](https://skillicons.dev/icons?i=vue&theme=dark)  
+![Svelte](https://skillicons.dev/icons?i=svelte&theme=dark)  
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)  
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)  
+
+**Herramientas:**  
+![Postman](https://skillicons.dev/icons?i=postman&theme=dark)  
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)  
+
+---
+
+### 💬 Pregúntame sobre:  
+- Node.js y Express.js  
+- Diseño y desarrollo de APIs RESTful  
+- Integración con bases de datos relacionales y no relacionales  
+
+---
+
+### 📫 Contáctame:  
+- **Correo electrónico:** bernardmartinez241@gmail.com  
+- **GitHub:** [zTraxDev](https://github.com/zTraxDev)  
+
+---
+
+### 📊 GitHub Stats:  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zTraxDev&show_icons=true&theme=dark&locale=en)
+
+---
+
